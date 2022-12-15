@@ -1,0 +1,4 @@
+[LOG] Yumurta adli ingredient elave olundu.
+[LOG] Biber adli ingredient elave olundu.
+[LOG] ToyuqQizartmasi adli yemek elave olundu.
+[LOG] asdasd adli ingredient elave olundu.
